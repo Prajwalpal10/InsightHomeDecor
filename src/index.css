@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    @apply  hover:text-orange-400  py-2 px-4 ;
+}
+
+* {
+  
+    box-sizing: border-box;
+    font-family: 'Onest', sans-serif;
+    
+    }
+  body {
+    font-family: Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+.slick-slide>div{
+    margin:0 10px;
+}
+.slick-prev:before,
+.slick-next:before {
+    
+    color:black; 
+}
+
