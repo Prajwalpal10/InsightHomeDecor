@@ -2,13 +2,11 @@ import React from 'react'
 import Imgslide from './Imgslide'
 import LogoSlider from './LogoSlider'
 import Number from './Number'
-import Footer from './Footer'
-import Form from './Form'
+import End from './End'
 function Header() {
   
   return (
-    <>
-          
+    <>         
           
           <div className='relative w-full h-full overflow-hidden shadow-2xl '>
                  <img  src="src\assets\images\front2-img.webp" alt="" />
@@ -21,6 +19,7 @@ function Header() {
 
 
   <Number/>
+  <End/>
  
 <LogoSlider/>
 

@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+ 
 .active{
     @apply  hover:text-orange-400  py-2 px-4 ;
 }
@@ -10,7 +11,8 @@
 * {
   
     box-sizing: border-box;
-    font-family: 'Onest', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
     
     }
   body {
