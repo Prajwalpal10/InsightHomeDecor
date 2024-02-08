@@ -12,7 +12,7 @@ import Nav from './Nav'
 
 function Home() {
   return (
-    <div className='relative   w-full h-screen bg-zinc-100'>
+    <div className='relative   w-screen h-screen bg-zinc-100'>
       
       <Nav />    
             <Routes >  

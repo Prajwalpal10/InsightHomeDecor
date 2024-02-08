@@ -33,12 +33,12 @@ const LogoSlider=    () => {
     ];
         
 return(
- <div>   
-    <h2 className='text-2xl font-bold text-center p-5'>Our trusted partners</h2>
+ <div className="w-full overflow-hidden">   
+    <h2 className=' w-full text-2xl font-bold text-center p-5'>Our trusted partners</h2>
      <Slider {...settings} > 
      { 
         images.map((image, index)=> (
-        <div key={index} className="container pt-5 ml-20 " > 
+        <div key={index} className="container w-[60%] pt-5 ml-20 " > 
              <img src={image} alt="logo" className="h-18 w-32" /> 
         </div>
         

@@ -1,18 +1,18 @@
-import React from 'react'
+
 import Cards from './Cards';
-
-
+import { Media } from '../Data/Media';
 
 function Products({data,Com,hero,discription}) {
+  
    
 
   return (
     <>
-     <div className=' w-[100%]  mt-24 overflow-hidden  '>
-        <img className='object-cover h-auto ' src={hero} alt="" />
-        <div className='absolute -mt-14 ml-[18%] w-screen w-[70%]  '>
+     <div className=' w-[100%]  mt-24 overflow-x-hidden '>
+        <img className='object-cover h-auto  ' src={hero} alt="" />
+        <div className='w-[80%] absolute -mt-14 ml-[18%]  '>
             
-            <h1 className='text-white font-semibold text-3xl '> {Com}</h1>
+            <h1 className='max-w-[80%] text-white font-semibold text-3xl '> {Com}</h1>
             <div className='border-solid border-red-700 border-2 w-[24%]  '></div>
             </div>
     </div>
@@ -24,8 +24,8 @@ function Products({data,Com,hero,discription}) {
     </div>
     </div>      
     {
-      data.map((items) => (
-        <Cards img={items.img} />            
+      Media.filter(Media => Media.category === data).map((items) => (
+        <Cards img={items.img}  />            
         ))
       }    
 
