@@ -2,7 +2,7 @@ import React from 'react'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { Media } from '../Data/Media';
+import { Media } from '../../Data/Media';
 
 function Imgslide({Title,cat}) {
     var settings = {

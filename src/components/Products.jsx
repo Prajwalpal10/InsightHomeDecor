@@ -1,6 +1,6 @@
 
 import Cards from './Cards';
-import { Media } from '../Data/Media';
+import { Media } from '../../Data/Media';
 
 function Products({data,Com,hero,discription}) {
   
