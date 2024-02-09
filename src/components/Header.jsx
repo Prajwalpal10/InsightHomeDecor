@@ -28,14 +28,14 @@ function Header() {
   
   <h1 className='text-3xl font-bold text-zinc-800 text-center'>Experience that you will love</h1>
 
-<div className='w-full h-full relative w-screen flex  bg-red-300 py-5'>
+<div className='w-full h-full relative w-screen flex  py-5'>
   <div className='w-[60%] '>
 
 <ReactPlayer className=' ' url='https://youtu.be/c3WyJcO85aU?si=ZyTwFcpShIma9l_V' />
   </div>
 
-<div className='bg-green-800'>
-<p>Google Rating</p>
+<div className=''>
+<p className='text-2xl font-semibold'>Google Rating</p>
 </div>
 </div>
   
