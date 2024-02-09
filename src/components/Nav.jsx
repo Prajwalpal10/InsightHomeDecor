@@ -17,7 +17,7 @@ function Nav() {
    <div className='fixed top-0 left-0 right-0 z-10 w-screen h-16 px-5 py-2 font- flex justify-between bg-white shadow-xl'>
                <div className='h-12                    '>
                   <Link to="/">   
-                  <img className='w-full h-full' src="./public/images/form.png" alt="Logo" />
+                  <img className='w-full h-full' src="../public/images/form.png" alt="Logo" />
                   </Link>
                </div>
                <div className='navbar w-4/5 p-4  relative text-zinc-600 text-sm font-semibold' >
