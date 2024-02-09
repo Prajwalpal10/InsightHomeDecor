@@ -1,22 +1,22 @@
 export const Media=[
     {
         Title:"Img-1",
-        img:"../src/assets/images/Wordrobe/w-1.webp",
+        img:"InsightHomeDecor/src/assets/images/Wordrobe/w-1.webp",
         category:"wordrobe"
     },
     {
         Title:"Img-2",
-         img:"../src/assets/images/Wordrobe/w-2.webp",
+         img:"InsightHomeDecor/src/assets/images/Wordrobe/w-2.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-3",
-         img:"../src/assets/images/Wordrobe/w-3.webp",
+         img:"InsightHomeDecor/src/assets/images/Wordrobe/w-3.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-4",
-         img:"../src/assets/images/Wordrobe/w-4.webp",
+         img:"InsightHomeDecor/src/assets/images/Wordrobe/w-4.webp",
          category:"wordrobe"
     },
     {
