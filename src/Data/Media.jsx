@@ -1,183 +1,183 @@
 export const Media=[
     {
         Title:"Img-1",
-        img:"src\assets\images\Wordrobe\w-1.webp",
+        img:"src/assets/images/Wordrobe/w-1.webp",
         category:"wordrobe"
     },
     {
         Title:"Img-2",
-         img:"src\assets\images\Wordrobe\w-2.webp",
+         img:"src/assets/images/Wordrobe/w-2.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-3",
-         img:"src\assets\images\Wordrobe\w-3.webp",
+         img:"src/assets/images/Wordrobe/w-3.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-4",
-         img:"src\assets\images\Wordrobe\w-4.webp",
+         img:"src/assets/images/Wordrobe/w-4.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-5",
-         img:"..\src\assets\images\Wordrobe\w-5.webp",
+         img:"../src/assets/images/Wordrobe/w-5.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-6",
-         img:"..\src\assets\images\Wordrobe\w-6.webp",
+         img:"../src/assets/images/Wordrobe/w-6.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-7",
-         img:"..\src\assets\images\Wordrobe\w-7.webp",
+         img:"../src/assets/images/Wordrobe/w-7.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-8",
-         img:"..\src\assets\images\Wordrobe\w-8.webp",
+         img:"../src/assets/images/Wordrobe/w-8.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-9",
-         img:"..\src\assets\images\Wordrobe\w-9.webp",
+         img:"../src/assets/images/Wordrobe/w-9.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-10",
-         img:"..\src\assets\images\Wordrobe\w-10.webp",
+         img:"../src/assets/images/Wordrobe/w-10.webp",
          category:"wordrobe"
     },
     {
         Title:"Img-11",
-        img:"..\src\assets\images\Wordrobe\w-11.webp",
+        img:"../src/assets/images/Wordrobe/w-11.webp",
         category:"wordrobe"
     },
     {
         Title:"Img-12",
-        img:"..\src\assets\images\Wordrobe\w-13.webp",
+        img:"../src/assets/images/Wordrobe/w-13.webp",
         category:"wordrobe"
     }
 ,
     {
         Title:"Img-1",
-        img:"..\src\assets\images\Kitchen\kitchen-1.webp",
+        img:"../src/assets/images/Kitchen/kitchen-1.webp",
         category:"kitchen"
     },
     {
         Title:"Img-2",
-        img:"..\src\assets\images\Kitchen\kitchen-2.webp",
+        img:"../src/assets/images/Kitchen/kitchen-2.webp",
         category:"kitchen"
     },
     {
         Title:"Img-3",
-        img:"..\src\assets\images\Kitchen\kitchen-3.webp",
+        img:"../src/assets/images/Kitchen/kitchen-3.webp",
         category:"kitchen"
     },
     {
         Title:"Img-4",
-        img:"..\src\assets\images\Kitchen\kitchen-4.webp",
+        img:"../src/assets/images/Kitchen/kitchen-4.webp",
         category:"kitchen"
     },
     {
         Title:"Img-5",
-        img:"..\src\assets\images\Kitchen\kitchen-5.webp",
+        img:"../src/assets/images/Kitchen/kitchen-5.webp",
         category:"kitchen"
     },
     {
         Title:"Img-6",
-        img:"..\src\assets\images\Kitchen\kitchen-6.webp",
+        img:"../src/assets/images/Kitchen/kitchen-6.webp",
         category:"kitchen"
     },
     {
         Title:"Img-7",
-        img:"..\src\assets\images\Kitchen\kitchen-7.webp",
+        img:"../src/assets/images/Kitchen/kitchen-7.webp",
         category:"kitchen"
     },
     {
         Title:"Img-8",
-        img:"..\src\assets\images\Kitchen\kitchen-8.webp",
+        img:"../src/assets/images/Kitchen/kitchen-8.webp",
         category:"kitchen"
     },
     {
         Title:"Img-9",
-        img:"..\src\assets\images\Kitchen\kitchen-9.webp",
+        img:"../src/assets/images/Kitchen/kitchen-9.webp",
         category:"kitchen"
     },
     {
         Title:"Img-10",
-        img:"..\src\assets\images\Kitchen\kitchen-10.webp",
+        img:"../src/assets/images/Kitchen/kitchen-10.webp",
         category:"kitchen"
     },
     {
         Title:"Img-11",
-        img:"..\src\assets\images\Livingroom\lr-11.webp",
+        img:"../src/assets/images/Livingroom/lr-11.webp",
         category:"kitchen"
     },
     {
         Title:"Img-12",
-        img:"..\src\assets\images\Livingroom\lr-13.webp",
+        img:"../src/assets/images/Livingroom/lr-13.webp",
         category:"kitchen"
     },
     {
         Title:"Img-1",
-        img:"..\src\assets\images\Livingroom\lr-1.webp",
+        img:"../src/assets/images/Livingroom/lr-1.webp",
         category:"livingroom"
     },
     {
         Title:"Img-2",
-        img:"..\src\assets\images\Livingroom\lr-2.webp",
+        img:"../src/assets/images/Livingroom/lr-2.webp",
         category:"livingroom"
     },
     {
         Title:"Img-3",
-        img:"..\src\assets\images\Livingroom\lr-3.webp",
+        img:"../src/assets/images/Livingroom/lr-3.webp",
         category:"livingroom"
     },
     {
         Title:"Img-4",
-        img:"..\src\assets\images\Livingroom\lr-4.webp",
+        img:"../src/assets/images/Livingroom/lr-4.webp",
         category:"livingroom"
     },
     {
         Title:"Img-5",
-        img:"..\src\assets\images\Livingroom\lr-5.webp",
+        img:"../src/assets/images/Livingroom/lr-5.webp",
         category:"livingroom"
     },
     {
         Title:"Img-6",
-        img:"..\src\assets\images\Livingroom\lr-6.webp",
+        img:"../src/assets/images/Livingroom/lr-6.webp",
         category:"livingroom"
     },
     {
         Title:"Img-7",
-        img:"..\src\assets\images\Livingroom\lr-7.webp",
+        img:"../src/assets/images/Livingroom/lr-7.webp",
         category:"livingroom"
     },
     {
         Title:"Img-8",
-        img:"..\src\assets\images\Livingroom\lr-8.webp",
+        img:"../src/assets/images/Livingroom/lr-8.webp",
         category:"livingroom"
     },
     {
         Title:"Img-9",
-        img:"..\src\assets\images\Livingroom\lr-9.webp",
+        img:"../src/assets/images/Livingroom/lr-9.webp",
         category:"livingroom"
     },
     {
         Title:"Img-10",
-        img:"..\src\assets\images\Livingroom\lr-10.webp",
+        img:"../src/assets/images/Livingroom/lr-10.webp",
         category:"livingroom"
     },
     {
         Title:"Img-11",
-        img:"..\src\assets\images\Livingroom\lr-11.webp",
+        img:"../src/assets/images/Livingroom/lr-11.webp",
         category:"livingroom"
     },
     {
         Title:"Img-12",
-        img:"..\src\assets\images\Livingroom\lr-13.webp",
+        img:"../src/assets/images/Livingroom/lr-13.webp",
         category:"livingroom"
     }
    
